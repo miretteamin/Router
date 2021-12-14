@@ -34,3 +34,7 @@ inputs:
 ● N: max number of connections a router can accept
 ● TC: total number of devices that wish to connect).
 ● TC lines that contain: name of each device, and its type
+
+## Contributers
+- Kareem Mostafa
+- Christina Saad
